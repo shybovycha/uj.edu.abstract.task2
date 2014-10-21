@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstract_task2", "abstract_task2\abstract_task2.csproj", "{AB4F76A7-5B25-491C-9B61-C1BA100BBA9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests", "tests\tests.csproj", "{B32521A4-7CA7-4637-902C-14DC6D5958CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB4F76A7-5B25-491C-9B61-C1BA100BBA9B}.Debug|x86.ActiveCfg = Debug|x86
+		{AB4F76A7-5B25-491C-9B61-C1BA100BBA9B}.Debug|x86.Build.0 = Debug|x86
+		{AB4F76A7-5B25-491C-9B61-C1BA100BBA9B}.Release|x86.ActiveCfg = Release|x86
+		{AB4F76A7-5B25-491C-9B61-C1BA100BBA9B}.Release|x86.Build.0 = Release|x86
+		{B32521A4-7CA7-4637-902C-14DC6D5958CE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B32521A4-7CA7-4637-902C-14DC6D5958CE}.Debug|x86.Build.0 = Debug|Any CPU
+		{B32521A4-7CA7-4637-902C-14DC6D5958CE}.Release|x86.ActiveCfg = Release|Any CPU
+		{B32521A4-7CA7-4637-902C-14DC6D5958CE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = abstract_task2\abstract_task2.csproj
+	EndGlobalSection
+EndGlobal
